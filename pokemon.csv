@@ -1,0 +1,166 @@
+Name,SpAtk,SpDef,Speed
+Bulbasaur,65,65,45
+Ivysaur,80,80,60
+Venusaur,100,100,80
+VenusaurMega Venusaur,122,120,80
+Charmander,60,50,65
+Charmeleon,80,65,80
+Charizard,109,85,100
+CharizardMega Charizard X,130,85,100
+CharizardMega Charizard Y,159,115,100
+Squirtle,50,64,43
+Wartortle,65,80,58
+Blastoise,85,105,78
+BlastoiseMega Blastoise,135,115,78
+Caterpie,20,20,45
+Metapod,25,25,30
+Butterfree,90,80,70
+Weedle,20,20,50
+Kakuna,25,25,35
+Beedrill,45,80,75
+BeedrillMega Beedrill,15,80,145
+Pidgey,35,35,56
+Pidgeotto,50,50,71
+Pidgeot,70,70,101
+PidgeotMega Pidgeot,135,80,121
+Rattata,25,35,72
+Raticate,50,70,97
+Spearow,31,31,70
+Fearow,61,61,100
+Ekans,40,54,55
+Arbok,65,79,80
+Pikachu,50,50,90
+Raichu,90,80,110
+Sandshrew,20,30,40
+Sandslash,45,55,65
+Nidoran♀,40,40,41
+Nidorina,55,55,56
+Nidoqueen,75,85,76
+Nidoran♂,40,40,50
+Nidorino,55,55,65
+Nidoking,85,75,85
+Clefairy,60,65,35
+Clefable,95,90,60
+Vulpix,50,65,65
+Ninetales,81,100,100
+Jigglypuff,45,25,20
+Wigglytuff,85,50,45
+Zubat,30,40,55
+Golbat,65,75,90
+Oddish,75,65,30
+Gloom,85,75,40
+Vileplume,110,90,50
+Paras,45,55,25
+Parasect,60,80,30
+Venonat,40,55,45
+Venomoth,90,75,90
+Diglett,35,45,95
+Dugtrio,50,70,120
+Meowth,40,40,90
+Persian,65,65,115
+Psyduck,65,50,55
+Golduck,95,80,85
+Mankey,35,45,70
+Primeape,60,70,95
+Growlithe,70,50,60
+Arcanine,100,80,95
+Poliwag,40,40,90
+Poliwhirl,50,50,90
+Poliwrath,70,90,70
+Abra,105,55,90
+Kadabra,120,70,105
+Alakazam,135,95,120
+AlakazamMega Alakazam,175,95,150
+Machop,35,35,35
+Machoke,50,60,45
+Machamp,65,85,55
+Bellsprout,70,30,40
+Weepinbell,85,45,55
+Victreebel,100,70,70
+Tentacool,50,100,70
+Tentacruel,80,120,100
+Geodude,30,30,20
+Graveler,45,45,35
+Golem,55,65,45
+Ponyta,65,65,90
+Rapidash,80,80,105
+Slowpoke,40,40,15
+Slowbro,100,80,30
+SlowbroMega Slowbro,130,80,30
+Magnemite,95,55,45
+Magneton,120,70,70
+Farfetch'd,58,62,60
+Doduo,35,35,75
+Dodrio,60,60,100
+Seel,45,70,45
+Dewgong,70,95,70
+Grimer,40,50,25
+Muk,65,100,50
+Shellder,45,25,40
+Cloyster,85,45,70
+Gastly,100,35,80
+Haunter,115,55,95
+Gengar,130,75,110
+GengarMega Gengar,170,95,130
+Onix,30,45,70
+Drowzee,43,90,42
+Hypno,73,115,67
+Krabby,25,25,50
+Kingler,50,50,75
+Voltorb,55,55,100
+Electrode,80,80,140
+Exeggcute,60,45,40
+Exeggutor,125,65,55
+Cubone,40,50,35
+Marowak,50,80,45
+Hitmonlee,35,110,87
+Hitmonchan,35,110,76
+Lickitung,60,75,30
+Koffing,60,45,35
+Weezing,85,70,60
+Rhyhorn,30,30,25
+Rhydon,45,45,40
+Chansey,35,105,50
+Tangela,100,40,60
+Kangaskhan,40,80,90
+KangaskhanMega Kangaskhan,60,100,100
+Horsea,70,25,60
+Seadra,95,45,85
+Goldeen,35,50,63
+Seaking,65,80,68
+Staryu,70,55,85
+Starmie,100,85,115
+Mr. Mime,100,120,90
+Scyther,55,80,105
+Jynx,115,95,95
+Electabuzz,95,85,105
+Magmar,100,85,93
+Pinsir,55,70,85
+PinsirMega Pinsir,65,90,105
+Tauros,40,70,110
+Magikarp,15,20,80
+Gyarados,60,100,81
+GyaradosMega Gyarados,70,130,81
+Lapras,85,95,60
+Ditto,48,48,48
+Eevee,45,65,55
+Vaporeon,110,95,65
+Jolteon,110,95,130
+Flareon,95,110,65
+Porygon,85,75,40
+Omanyte,90,55,35
+Omastar,115,70,55
+Kabuto,55,45,55
+Kabutops,65,70,80
+Aerodactyl,60,75,130
+AerodactylMega Aerodactyl,70,95,150
+Snorlax,65,110,30
+Articuno,95,125,85
+Zapdos,125,90,100
+Moltres,125,85,90
+Dratini,50,50,50
+Dragonair,70,70,70
+Dragonite,100,100,80
+Mewtwo,154,90,130
+MewtwoMega Mewtwo X,154,100,130
+MewtwoMega Mewtwo Y,194,120,140
